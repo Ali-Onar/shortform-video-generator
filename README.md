@@ -2,6 +2,8 @@
 
 This project creates shortform videos (like TikTok, Reels) from plain text using AI tools.
 
+[`Demo link`](https://www.youtube.com/watch?v=mw0lMf2Fu8E)
+
 ## ✨ Features
 
 - 🔊 Text-to-speech using TikTok TTS
