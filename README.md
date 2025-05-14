@@ -20,7 +20,7 @@ This project creates shortform videos (like TikTok, Reels) from plain text using
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shortform-video-generator.git
+git clone https://github.com/Ali-Onar/shortform-video-generator.git
 cd shortform-video-generator
 npm install
 ```
